@@ -92,3 +92,46 @@ header {
    #FFFFFF calc(.25em + 1px), #FFFFFF .9em
  );
 }
+
+
+h1 {
+  float: left;
+  font-family: Teko, sans-serif;
+  font-weight: bolder;
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+#date {
+  float: left;
+  font-family: Droid serif;
+  font-size: 10px;
+  color: grey;
+  clear: left;
+}
+
+#print {
+  float: right;
+  font-family: Droid serif;
+  font-size: 10px;
+  color: grey;
+
+}
+
+#choco-pizza {
+  margin-top: 50px;
+  float: left;
+  width: 100%;
+}
+
+.text {
+  float: left;
+  font-family: Droid serif;
+  font-size: 14px;
+  color: grey;
+  line-height: 20px;
+}
+
+.text p {
+  margin-top: 20px;
+}
