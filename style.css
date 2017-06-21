@@ -135,3 +135,27 @@ h1 {
 .text p {
   margin-top: 20px;
 }
+
+
+.recipe {
+  background-image: url('Images/list-bg.png');
+  box-shadow: 0 10px 5px -6px #D3D3D3;
+  float: left;
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+ul {
+  float: left;
+  padding-left: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: grey;
+  width: 40%;
+  font-size: 18px;
+  line-height: 36px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-family: 'Patrick Hand', sans-serif;
+  font-weight: lighter;
+}
