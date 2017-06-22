@@ -159,3 +159,80 @@ ul {
   font-family: 'Patrick Hand', sans-serif;
   font-weight: lighter;
 }
+
+#bio {
+  padding-top: 20px;
+  float: left;
+}
+
+.tab {
+  padding-left: 20px;
+}
+
+#name {
+  color: #000000;
+  font-family: Droid serif;
+  font-size: 16px;
+  font-weight: bolder;
+  float: left;
+}
+
+#bio {
+
+}
+
+#bio-image {
+  float: left;
+  margin-top: 20px;
+}
+
+#bio-text {
+  margin-left: 20px;
+  font-family: Droid serif;
+  font-size: 16px;
+  color: grey;
+  float: left;
+  padding-top: 15px;
+  width: 65%;
+}
+
+#share-link {
+  text-align: center;
+  width: 20%;
+  margin-top: 30px;
+  font-family: Droid serif;
+  color: #FFFFFF;
+  background-color: #BB7056;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: right;
+  text-decoration: none;
+}
+
+#footer-group {
+  margin-top: 50px;
+  margin-bottom: 75px;
+  float: left;
+  width: 100%;
+}
+hr {
+  display: inline-block;
+  width: 47%;
+  opacity: .3;
+}
+#small-logo {
+  width: 3%;
+  padding-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.bottom {
+  font-family: Droid serif;
+  font-size: 10px;
+  font-weight: lighter;
+  float: left;
+  width: 100%;
+  text-align: center;
+  color: grey;
+}
