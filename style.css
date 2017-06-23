@@ -48,3 +48,216 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+  padding-top: 50px;
+}
+
+#logo {
+  float: left;
+}
+
+#delicious {
+  float: left;
+  font-family: Yellowtail;
+  font-size: 36px;
+  padding-left: 10px;
+  padding-top:
+}
+
+#subtitle {
+  font-family: Droid serif;
+  color: grey;
+  font-size: 10px;
+  float: left;
+}
+
+.icon-blocks {
+  float: right;
+}
+
+#hashed-line {
+  margin-top: 20px;
+  float: left;
+  width: 100%;
+  height: 10px;
+  background: repeating-linear-gradient(45deg,
+   #FFFFFF 0,
+   #D3D3D3 .5px /* transition */, #D3D3D3 .1em,
+   #FFFFFF calc(.25em + 1px), #FFFFFF .9em
+ );
+}
+
+
+h1 {
+  float: left;
+  font-family: Teko, sans-serif;
+  font-weight: bolder;
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+#date {
+  float: left;
+  font-family: Droid serif;
+  font-size: 10px;
+  color: grey;
+  clear: left;
+}
+
+#print {
+  float: right;
+  font-family: Droid serif;
+  font-size: 10px;
+  color: grey;
+
+}
+
+#choco-pizza {
+  margin-top: 50px;
+  float: left;
+  width: 100%;
+}
+
+.text {
+  float: left;
+  font-family: Droid serif;
+  font-size: 14px;
+  color: grey;
+  line-height: 20px;
+}
+
+.text p {
+  margin-top: 20px;
+}
+
+
+.recipe {
+  background-image: url('Images/list-bg.png');
+  box-shadow: 0 10px 5px -6px #D3D3D3;
+  float: left;
+  width: 100%;
+  max-width: 865px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  float: left;
+  font-size: 18px;
+  line-height: 36px;
+  font-family: 'Patrick Hand', sans-serif;
+  font-weight: lighter;
+  columns: 2;
+  color: grey;
+}
+
+ul {
+  float: left;
+  padding-left: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: grey;
+  width: 40%;
+  font-size: 18px;
+  line-height: 36px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-family: 'Patrick Hand', sans-serif;
+  font-weight: lighter;
+}
+
+#bio {
+  padding-top: 20px;
+  float: left;
+}
+
+.tab {
+  padding-left: 20px;
+}
+
+#name {
+  color: #000000;
+  font-family: Droid serif;
+  font-size: 16px;
+  font-weight: bolder;
+  float: left;
+}
+
+#bio {
+
+}
+
+#bio-image {
+  float: left;
+  margin-top: 20px;
+}
+
+#bio-text {
+  margin-left: 20px;
+  font-family: Droid serif;
+  font-size: 16px;
+  color: grey;
+  float: left;
+  padding-top: 15px;
+  width: 65%;
+}
+
+#share-link {
+  text-align: center;
+  width: 20%;
+  margin-top: 30px;
+  font-family: Droid serif;
+  color: #FFFFFF;
+  background-color: #BB7056;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: right;
+  text-decoration: none;
+}
+
+#footer-group {
+  margin-top: 50px;
+  margin-bottom: 75px;
+  float: left;
+  width: 100%;
+}
+hr {
+  display: inline-block;
+  width: 47%;
+  opacity: .3;
+}
+#small-logo {
+  width: 3%;
+  padding-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.bottom {
+  font-family: Droid serif;
+  font-size: 10px;
+  font-weight: lighter;
+  float: left;
+  width: 100%;
+  text-align: center;
+  color: grey;
+}
+input.checkbox {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+input:checked + label.strikethrough{
+  text-decoration: line-through;
+}
+.recipe-content {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+label {
+  padding-left: 20px;
+  padding-top: 5px;
+}
