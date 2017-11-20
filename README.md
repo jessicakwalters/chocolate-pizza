@@ -1,5 +1,7 @@
 # chocolate-pizza
-Recreate Chocolate Pizza Page
+Recreate Chocolate Pizza Page:
+
+seattle-201n8/class-10-js_debugging-wireframe_part_2/lab-assets/PREVIEW.jpg
 
 ## Chocolate Pizza: Create a webpage from a provided design comp
 
